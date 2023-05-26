@@ -1,0 +1,24 @@
+{
+  "name": "console.dog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/main.js",
+  "scripts": {
+    "dev": "tsc -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damieneichhorn/console.dog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damieneichhorn/console.dog/issues"
+  },
+  "homepage": "https://github.com/damieneichhorn/console.dog#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
